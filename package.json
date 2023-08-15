@@ -1,0 +1,14 @@
+{
+  "author": "Furkan Emiroglu",
+  "name": "com.femiroglu.objectpooling",
+  "displayName": "Object Pooling Scripts",
+  "version": "1.0.2",
+  "unity": "2021.3",
+  "description": "Some reusable object pooling scripts",
+  "documentationUrl": "https://github.com/FurkanEmiroglu/Object-Pooling/README.md",
+
+  "repository": {
+    "type": "git",
+    "url": "github:furkanemiroglu/object-pooling"
+  }
+}
